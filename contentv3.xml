@@ -10657,7 +10657,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Terminada esta SDA y antes de pasar a la siguiente Unidad Didáctica, os pido que evaluéis el desarrollo de esta SDA y mi papel en ella. Os comparto el enlace de un cuestionario de Google Forms TOTALMENTE ANÓNIMO para que lo respondáis en casa. Recordar que esto es muy importante, pues me permite aprender y mejorar :)&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Para evaluar a la profe, haz &lt;a href=&quot;https://forms.gle/38o19eFnXtK25C8o6&quot;&gt;click aquí&lt;/a&gt;. &lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;img src=&quot;resources/_19d6f81d-9c4a-4510-a94c-344136542422.jpg&quot; alt=&quot;Un dibujo de la profesora&quot; width=&quot;337&quot; height=&quot;337&quot; /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/yo-profe.jpg&quot; alt=&quot;Yo profe&quot; width=&quot;400&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -10677,7 +10677,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="796"></int>
+                     <int value="797"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -10691,7 +10691,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="84_120_2.4"></unicode>
+                   <unicode value="84_120_2.5"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="200">
                     <dictionary>
@@ -10700,9 +10700,9 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                      <string role="key" value="_package"></string>
                      <reference key="5"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="_19d6f81d-9c4a-4510-a94c-344136542422.jpg"></string>
+                     <string value="yo-profe.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\maria\\appdata\\local\\temp\\tmpry0kdj\\_19d6f81d-9c4a-4510-a94c-344136542422.jpg"></string>
+                     <string value="c:\\users\\maria\\appdata\\local\\temp\\tmpafv6ur.eXe\\previews\\allyourbase\\yo-profe.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a48e2e61aca9b0307b830930223fec1d"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -10731,7 +10731,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="5"></int>
+              <int value="6"></int>
               <string role="key" value="parentNode"></string>
               <reference key="199"></reference>
              </dictionary>
